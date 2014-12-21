@@ -22,3 +22,6 @@
 [submodule "modules/static_assert"]
 	path = modules/static_assert
 	url = git@github.com:boostorg/static_assert.git
+[submodule "modules/core"]
+	path = modules/core
+	url = git@github.com:boostorg/core.git

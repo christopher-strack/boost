@@ -6,7 +6,8 @@ INCLUDEPATH += \
 	$$IN_PWD/modules/preprocessor/include \
 	$$IN_PWD/modules/throw_exception/include \
 	$$IN_PWD/modules/assert/include \
-	$$IN_PWD/modules/static_assert/include
+	$$IN_PWD/modules/static_assert/include \
+	$$IN_PWD/modules/core/include
 
 DEPENDPATH += \
 	$$IN_PWD/modules/uuid/include \
@@ -16,4 +17,5 @@ DEPENDPATH += \
 	$$IN_PWD/modules/preprocessor/include \
 	$$IN_PWD/modules/throw_exception/include \
 	$$IN_PWD/modules/assert/include \
-	$$IN_PWD/modules/static_assert/include
+	$$IN_PWD/modules/static_assert/include \
+	$$IN_PWD/modules/core/include
