@@ -1,0 +1,3 @@
+[submodule "modules/uuid"]
+	path = modules/uuid
+	url = git@github.com:boostorg/uuid.git
