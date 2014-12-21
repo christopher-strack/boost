@@ -9,7 +9,8 @@ INCLUDEPATH += \
 	$$IN_PWD/modules/static_assert/include \
 	$$IN_PWD/modules/core/include \
 	$$IN_PWD/modules/iterator/include \
-	$$IN_PWD/modules/detail/include
+	$$IN_PWD/modules/detail/include \
+	$$IN_PWD/modules/system/include
 
 DEPENDPATH += \
 	$$IN_PWD/modules/uuid/include \
@@ -22,4 +23,5 @@ DEPENDPATH += \
 	$$IN_PWD/modules/static_assert/include \
 	$$IN_PWD/modules/core/include \
 	$$IN_PWD/modules/iterator/include \
-	$$IN_PWD/modules/detail/include
+	$$IN_PWD/modules/detail/include \
+	$$IN_PWD/modules/system/include

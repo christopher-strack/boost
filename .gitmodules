@@ -31,3 +31,6 @@
 [submodule "modules/detail"]
 	path = modules/detail
 	url = git@github.com:boostorg/detail.git
+[submodule "modules/system"]
+	path = modules/system
+	url = git@github.com:boostorg/system.git
