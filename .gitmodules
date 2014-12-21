@@ -25,3 +25,6 @@
 [submodule "modules/core"]
 	path = modules/core
 	url = git@github.com:boostorg/core.git
+[submodule "modules/iterator"]
+	path = modules/iterator
+	url = git@github.com:boostorg/iterator.git
