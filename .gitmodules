@@ -7,3 +7,6 @@
 [submodule "modules/type_traits"]
 	path = modules/type_traits
 	url = git@github.com:boostorg/type_traits.git
+[submodule "modules/mpl"]
+	path = modules/mpl
+	url = git@github.com:boostorg/mpl.git
