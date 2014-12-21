@@ -34,3 +34,6 @@
 [submodule "modules/system"]
 	path = modules/system
 	url = git@github.com:boostorg/system.git
+[submodule "modules/predef"]
+	path = modules/predef
+	url = git@github.com:boostorg/predef.git
