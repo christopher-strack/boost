@@ -10,3 +10,6 @@
 [submodule "modules/mpl"]
 	path = modules/mpl
 	url = git@github.com:boostorg/mpl.git
+[submodule "modules/preprocessor"]
+	path = modules/preprocessor
+	url = git@github.com:boostorg/preprocessor.git
