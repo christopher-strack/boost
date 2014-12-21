@@ -13,3 +13,6 @@
 [submodule "modules/preprocessor"]
 	path = modules/preprocessor
 	url = git@github.com:boostorg/preprocessor.git
+[submodule "modules/throw_exception"]
+	path = modules/throw_exception
+	url = git@github.com:boostorg/throw_exception.git
