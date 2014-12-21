@@ -1,6 +1,9 @@
 [submodule "modules/uuid"]
 	path = modules/uuid
 	url = git@github.com:boostorg/uuid.git
+[submodule "modules/config"]
+	path = modules/config
+	url = git@github.com:boostorg/config.git
 [submodule "modules/type_traits"]
 	path = modules/type_traits
 	url = git@github.com:boostorg/type_traits.git
