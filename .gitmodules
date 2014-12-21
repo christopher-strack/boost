@@ -40,3 +40,6 @@
 [submodule "modules/integer"]
 	path = modules/integer
 	url = git@github.com:boostorg/integer.git
+[submodule "modules/smart_ptr"]
+	path = modules/smart_ptr
+	url = git@github.com:boostorg/smart_ptr.git

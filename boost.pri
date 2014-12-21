@@ -12,7 +12,8 @@ INCLUDEPATH += \
 	$$IN_PWD/modules/detail/include \
 	$$IN_PWD/modules/system/include \
 	$$IN_PWD/modules/predef/include \
-	$$IN_PWD/modules/integer/include
+	$$IN_PWD/modules/integer/include \
+	$$IN_PWD/modules/smart_ptr/include
 
 DEPENDPATH += \
 	$$IN_PWD/modules/uuid/include \
@@ -28,4 +29,5 @@ DEPENDPATH += \
 	$$IN_PWD/modules/detail/include \
 	$$IN_PWD/modules/system/include \
 	$$IN_PWD/modules/predef/include \
-	$$IN_PWD/modules/integer/include
+	$$IN_PWD/modules/integer/include \
+	$$IN_PWD/modules/smart_ptr/include
