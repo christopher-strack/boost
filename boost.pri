@@ -11,7 +11,8 @@ INCLUDEPATH += \
 	$$IN_PWD/modules/iterator/include \
 	$$IN_PWD/modules/detail/include \
 	$$IN_PWD/modules/system/include \
-	$$IN_PWD/modules/predef/include
+	$$IN_PWD/modules/predef/include \
+	$$IN_PWD/modules/integer/include
 
 DEPENDPATH += \
 	$$IN_PWD/modules/uuid/include \
@@ -26,4 +27,5 @@ DEPENDPATH += \
 	$$IN_PWD/modules/iterator/include \
 	$$IN_PWD/modules/detail/include \
 	$$IN_PWD/modules/system/include \
-	$$IN_PWD/modules/predef/include
+	$$IN_PWD/modules/predef/include \
+	$$IN_PWD/modules/integer/include

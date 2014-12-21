@@ -37,3 +37,6 @@
 [submodule "modules/predef"]
 	path = modules/predef
 	url = git@github.com:boostorg/predef.git
+[submodule "modules/integer"]
+	path = modules/integer
+	url = git@github.com:boostorg/integer.git
