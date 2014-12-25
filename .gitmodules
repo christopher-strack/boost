@@ -46,3 +46,6 @@
 [submodule "modules/random"]
 	path = modules/random
 	url = git@github.com:boostorg/random.git
+[submodule "modules/range"]
+	path = modules/range
+	url = git@github.com:boostorg/range.git
