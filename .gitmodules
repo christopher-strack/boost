@@ -52,3 +52,6 @@
 [submodule "modules/concept_check"]
 	path = modules/concept_check
 	url = git@github.com:boostorg/concept_check.git
+[submodule "modules/utility"]
+	path = modules/utility
+	url = git@github.com:boostorg/utility.git
