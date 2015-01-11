@@ -55,3 +55,6 @@
 [submodule "modules/utility"]
 	path = modules/utility
 	url = git@github.com:boostorg/utility.git
+[submodule "modules/io"]
+	path = modules/io
+	url = git@github.com:boostorg/io.git
