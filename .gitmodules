@@ -76,3 +76,6 @@
 [submodule "modules/variant"]
 	path = modules/variant
 	url = git@github.com:boostorg/variant.git
+[submodule "modules/type_index"]
+	path = modules/type_index
+	url = git@github.com:boostorg/type_index.git
