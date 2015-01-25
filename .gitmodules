@@ -82,3 +82,6 @@
 [submodule "modules/functional"]
 	path = modules/functional
 	url = git@github.com:boostorg/functional.git
+[submodule "modules/math"]
+	path = modules/math
+	url = git@github.com:boostorg/math.git
