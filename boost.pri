@@ -22,7 +22,8 @@ INCLUDEPATH += \
 	$$IN_PWD/modules/io/include \
 	$$IN_PWD/modules/signals2/include \
 	$$IN_PWD/modules/optional/include \
-	$$IN_PWD/modules/move/include
+	$$IN_PWD/modules/move/include \
+	$$IN_PWD/modules/function/include
 
 DEPENDPATH += \
 	$$IN_PWD/modules/uuid/include \
@@ -47,4 +48,5 @@ DEPENDPATH += \
 	$$IN_PWD/modules/io/include \
 	$$IN_PWD/modules/signals2/include \
 	$$IN_PWD/modules/optional/include \
-	$$IN_PWD/modules/move/include
+	$$IN_PWD/modules/move/include \
+	$$IN_PWD/modules/function/include

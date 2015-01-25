@@ -67,3 +67,6 @@
 [submodule "modules/move"]
 	path = modules/move
 	url = git@github.com:boostorg/move.git
+[submodule "modules/function"]
+	path = modules/function
+	url = git@github.com:boostorg/function.git
