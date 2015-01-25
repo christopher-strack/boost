@@ -79,3 +79,6 @@
 [submodule "modules/type_index"]
 	path = modules/type_index
 	url = git@github.com:boostorg/type_index.git
+[submodule "modules/functional"]
+	path = modules/functional
+	url = git@github.com:boostorg/functional.git

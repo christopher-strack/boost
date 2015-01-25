@@ -26,7 +26,8 @@ INCLUDEPATH += \
 	$$IN_PWD/modules/function/include \
 	$$IN_PWD/modules/bind/include \
 	$$IN_PWD/modules/variant/include \
-	$$IN_PWD/modules/type_index/include
+	$$IN_PWD/modules/type_index/include \
+	$$IN_PWD/modules/functional/include
 
 DEPENDPATH += \
 	$$IN_PWD/modules/uuid/include \
@@ -55,4 +56,5 @@ DEPENDPATH += \
 	$$IN_PWD/modules/function/include \
 	$$IN_PWD/modules/bind/include \
 	$$IN_PWD/modules/variant/include \
-	$$IN_PWD/modules/type_index/include
+	$$IN_PWD/modules/type_index/include \
+	$$IN_PWD/modules/functional/include
