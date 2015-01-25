@@ -61,3 +61,6 @@
 [submodule "modules/signals2"]
 	path = modules/signals2
 	url = git@github.com:boostorg/signals2.git
+[submodule "modules/optional"]
+	path = modules/optional
+	url = git@github.com:boostorg/optional.git
