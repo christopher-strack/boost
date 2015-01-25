@@ -73,3 +73,6 @@
 [submodule "modules/bind"]
 	path = modules/bind
 	url = git@github.com:boostorg/bind.git
+[submodule "modules/variant"]
+	path = modules/variant
+	url = git@github.com:boostorg/variant.git
