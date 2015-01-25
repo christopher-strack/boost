@@ -88,3 +88,6 @@
 [submodule "modules/multi_index"]
 	path = modules/multi_index
 	url = git@github.com:boostorg/multi_index.git
+[submodule "modules/parameter"]
+	path = modules/parameter
+	url = git@github.com:boostorg/parameter.git
