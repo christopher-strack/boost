@@ -85,3 +85,6 @@
 [submodule "modules/math"]
 	path = modules/math
 	url = git@github.com:boostorg/math.git
+[submodule "modules/multi_index"]
+	path = modules/multi_index
+	url = git@github.com:boostorg/multi_index.git
