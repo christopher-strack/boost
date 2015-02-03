@@ -4,6 +4,7 @@ CONFIG += c++11
 QMAKE_CXXFLAGS += -w
 
 !android {
+    QMAKE_CXX=ccache g++
     CONFIG += staticlib
 }
 
