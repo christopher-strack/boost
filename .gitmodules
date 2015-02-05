@@ -91,3 +91,6 @@
 [submodule "modules/parameter"]
 	path = modules/parameter
 	url = git@github.com:boostorg/parameter.git
+[submodule "modules/serialization"]
+	path = modules/serialization
+	url = git@github.com:boostorg/serialization.git
