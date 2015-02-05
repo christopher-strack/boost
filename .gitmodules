@@ -94,3 +94,6 @@
 [submodule "modules/serialization"]
 	path = modules/serialization
 	url = git@github.com:boostorg/serialization.git
+[submodule "modules/align"]
+	path = modules/align
+	url = git@github.com:boostorg/align.git
