@@ -97,3 +97,6 @@
 [submodule "modules/align"]
 	path = modules/align
 	url = git@github.com:boostorg/align.git
+[submodule "modules/array"]
+	path = modules/array
+	url = git@github.com:boostorg/array.git
