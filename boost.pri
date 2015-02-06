@@ -33,7 +33,8 @@ INCLUDEPATH += \
 	$$IN_PWD/modules/parameter/include \
 	$$IN_PWD/modules/serialization/include \
 	$$IN_PWD/modules/align/include \
-	$$IN_PWD/modules/array/include
+	$$IN_PWD/modules/array/include \
+	$$IN_PWD/modules/spirit/include
 
 DEPENDPATH += \
 	$$IN_PWD/modules/uuid/include \
@@ -69,4 +70,5 @@ DEPENDPATH += \
 	$$IN_PWD/modules/parameter/include \
 	$$IN_PWD/modules/serialization/include \
 	$$IN_PWD/modules/align/include \
-	$$IN_PWD/modules/array/include
+	$$IN_PWD/modules/array/include \
+	$$IN_PWD/modules/spirit/include

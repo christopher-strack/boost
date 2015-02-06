@@ -100,3 +100,6 @@
 [submodule "modules/array"]
 	path = modules/array
 	url = git@github.com:boostorg/array.git
+[submodule "modules/spirit"]
+	path = modules/spirit
+	url = git@github.com:boostorg/spirit.git
